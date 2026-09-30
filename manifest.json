@@ -1,0 +1,19 @@
+{
+  "name": "Cosmic Battles",
+  "short_name": "Cosmic",
+  "description": "Аркадный космический шутер с боссами и скинами",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a0a1a",
+  "theme_color": "#0a0a1a",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
